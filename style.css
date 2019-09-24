@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.cv-mateo {
+  max-width: 900px;
+  margin: 10px auto;
+}
+
+.cv-mateo img {
+  text-align: center;
+  border-radius: 4px;
+}
+
+.cv {
+  box-shadow: 2px 2px 2px 1px rgba(20, 10, 60, .2);
+  background: #EDE8E7;
+  padding : 10px 20px;
+  border-radius: 4px;
+  margin: 10px 0;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+h1{
+  text-align: center;
+  font-weight: 1200 !important;
+}
+
+h2{
+  color:#666EB6;
+  font-weight: bold;
+}
+
+#poste{text-align: center;
+  font-weight: 500;
+}
+  
+
+li{
+  color: #172A3A;
+  line-height: 30px;
+}
+
+h3{
+  text-align: center;
+  font-weight: 300;
+}
+
+#diplome{
+  font-weight: bold;
+}
+
+i{
+  color: #666EB6;
+  text-align: center;
+  font-size: 24px;
+  transition: 0.5s ease;
+}
+
+i:hover {
+  color: blue;
+}
+
+p{
+  line-height: 25px;
+}
+
+
+
+
