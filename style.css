@@ -16,7 +16,8 @@ body {
 
 .cv {
   box-shadow: 2px 2px 2px 1px rgba(20, 10, 60, .2);
-  background: #EDE8E7;
+  background: #F1F8FF;
+  /*background: #EDE8E7;*/
   padding : 10px 20px;
   border-radius: 4px;
   margin: 10px 0;
@@ -42,7 +43,7 @@ h2{
 #poste{text-align: center;
   font-weight: 500;
 }
-  
+
 
 li{
   color: #172A3A;
